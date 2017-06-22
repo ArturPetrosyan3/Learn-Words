@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ic.png</file>
+        <file>news.html</file>
+    </qresource>
+</RCC>

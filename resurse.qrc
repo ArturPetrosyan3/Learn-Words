@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ic.png</file>
+        <file>news.html</file>
+        <file>listitems.sqlite</file>
+    </qresource>
+    <qresource prefix="/My Files"/>
+</RCC>
